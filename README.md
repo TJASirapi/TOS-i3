@@ -26,7 +26,7 @@ DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC]
 
 ## ロードマップみたいな
 
-release i3 1000 リポジトリをTOSにした
+release i3 1.0000 リポジトリをTOSにした
 
 ## ライセンス関係
 Fork元より引用。
