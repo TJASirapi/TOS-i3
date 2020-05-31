@@ -1,11 +1,9 @@
-# TaikoCatsDooooN
-DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレをさらに改造していくアレ。
+# TaikoOS i3
+DTXManiaをいじってtja再生プログラムにしちゃった[TJAPlayer2fPC](https://github.com/kairera0467/TJAP2fPC)をForkして本家風に改造したアレをさらに改造していくアレをさらに改造しているアレ
 
 この改造者[@aioilight_2nd](https://twitter.com/aioilight_2nd)はプログラミングが大変苦手なので、スパゲッティコードと化していると思います...すみません
 
-完成品はこちらから入手してください。
 
-https://aioilight.space/taiko/tjap3/
 
 このプログラムを使用した不具合・問題については責任を負いかねます。
 
@@ -28,17 +26,7 @@ https://aioilight.space/taiko/tjap3/
 
 ## ロードマップみたいな
 
-Ver.1.4.x : 拡張性の増加、サウンド周りの変更、読み込める命令の追加（9月中）
-
-Ver.1.5.x : 段位認定機能の追加（11、12月中）
-
-Ver.1.6.x : 多言語対応（2月中）
-
-Ver.1.7.x : フレームワークのアップデート、ライブラリの更新（3月9日）
-
-Ver.1.8.x : さらなる安定化を目指して（Ver.1.x系の最終バージョン、来年中）
-
-Ver.2.x : Direct3D11、12への対応、保守体制へ（未定）
+release i3 1000 リポジトリをTOSにした
 
 ## ライセンス関係
 Fork元より引用。
